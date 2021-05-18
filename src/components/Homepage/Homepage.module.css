@@ -1,0 +1,46 @@
+.RedText {
+    color:red;
+}
+.Heading {
+    text-align: center;
+}
+
+.Heading p {
+    font-size: 14px;
+    color:grey;
+}
+
+.SearchCard {
+    max-width: 500px;
+    margin:auto
+}
+
+.SearchButton {
+    margin:auto;
+    text-align: center;
+}
+
+.HowItWorks {
+    margin:auto;
+    text-align: center;
+}
+
+.HowItWorks h4{
+    color: red;
+}
+
+.HowItWorks p {
+    color: #34495e;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .Heading h1{
+        font-size: 25px;
+    }
+
+    .HowItWorks p {
+        font-size: 14px;
+    }
+
+}

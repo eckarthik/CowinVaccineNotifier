@@ -1,0 +1,12 @@
+.Error {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.ErrorImage i {
+    font-size: 50px;
+    color:#ffa502;
+}
